@@ -1,4 +1,7 @@
-/venv
-venv
-excluded
+# Ignorar variables de entorno
 .env
+
+# Ignorar entornos virtuales de Python
+venv/
+
+excluded/
